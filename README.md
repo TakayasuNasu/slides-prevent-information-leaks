@@ -1,4 +1,4 @@
-# slides-binary-algorithm
+# slides-prevent-information-leaks
 
 ```
 yarn upgrade-interactive --latest
