@@ -1,0 +1,21 @@
+{
+  "name": "slides-prevent-information-leaks",
+  "version": "0.0.0",
+  "keywords": [
+    "slidev-theme",
+    "slidev"
+  ],
+  "scripts": {
+    "dev": "slidev slides.md --open",
+    "build": "slidev build --base /slides-binary-algorithm/",
+    "export": "slidev export slides.md",
+    "screenshot": "slidev export slides.md --format png"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.28.5",
+    "@slidev/theme-default": "^0.21.1"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.19.0"
+  }
+}
