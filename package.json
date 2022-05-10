@@ -12,10 +12,11 @@
     "screenshot": "slidev export slides.md --format png"
   },
   "dependencies": {
-    "@slidev/cli": "^0.29.2",
+    "@slidev/cli": "^0.31.2",
+    "@slidev/theme-apple-basic": "^0.20.0",
     "@slidev/theme-default": "^0.21.2"
   },
   "devDependencies": {
-    "playwright-chromium": "^1.20.2"
+    "playwright-chromium": "^1.21.1"
   }
 }
