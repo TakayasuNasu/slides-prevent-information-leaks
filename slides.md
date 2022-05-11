@@ -33,8 +33,8 @@ layout: statement
 # Let's study Japanese using a comic book!
 
 ---
-layout: image
-image: ./assets/img/cover-page.jpg
+layout: intro-image
+image: https://raw.githubusercontent.com/TakayasuNasu/slides-prevent-information-leaks/main/assets/img/cover-page.jpg
 ---
 
 ---

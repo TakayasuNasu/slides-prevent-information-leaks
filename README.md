@@ -4,4 +4,4 @@
 yarn upgrade-interactive --latest
 ```
 
-## [https://takayasunasu.github.io/slides-prevent-information-leaks/4](https://takayasunasu.github.io/slides-prevent-information-leaks/4)
+## [https://takayasunasu.github.io/slides-prevent-information-leaks/](https://takayasunasu.github.io/slides-prevent-information-leaks/)
